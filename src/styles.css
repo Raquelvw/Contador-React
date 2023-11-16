@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://elements-cover-images-0.imgix.net/f9d93031-c332-4f40-8f1a-001a8ad692bd?auto=compress%2Cformat&w=900&fit=max&s=2d9e1c3f537d94958944297365f80010");
+}
+
+p {
+  font-size: 44px;
+  color: purple;
+}
+
+h1 {
+  font-size: 48px;
+  color: cornsilk;
+  margin: 20px 0;
+}
+
+button {
+  background-color: purple;
+  border: none;
+  border-radius: 20px;
+  width: 120px;
+  height: 40px;
+  margin: 0 10px;
+  color: white;
+}
